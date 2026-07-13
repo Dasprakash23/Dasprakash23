@@ -1,65 +1,61 @@
 <h1 align="center">Hi 👋, I'm Dasprakash</h1>
-<h3 align="center">Final Year B.Tech Student | Python Developer | Full Stack Learner | AI Enthusiast</h3>
+
+<h3 align="center">
+Final Year B.Tech Student | Python Developer | AI Enthusiast
+</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Student
-- 💻 Interested in Python, AI & Web Development
-- 🌱 Currently learning Django and React
-- 🎯 Goal: Become a Software Engineer
-- 📍 India
+🎓 Final Year B.Tech Student
 
----
+💻 Interested in Python, Artificial Intelligence, and Software Development.
 
-## 🛠️ Tech Stack
+🌱 Currently improving my problem-solving skills and building real-world projects.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+🎯 Looking for Software Developer opportunities.
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+📍 Tamil Nadu, India
 
 ---
 
-## 📂 Projects
+## 🚀 Current Focus
 
-- 💬 TCP Chat Application
-- 🎓 College Help Desk Website
-- 🤖 AI Study Planner
-- 🚗 AI-Based Accident Prevention System
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- Learning Python deeply
+- Building AI-based applications
+- Improving Data Structures & Algorithms
+- Strengthening Full Stack Development skills
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+### 🚗 AI-Based Accident Prevention System
+An AI-powered solution designed to improve road safety by detecting risky driving behaviour and providing timely alerts.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+### 🎓 College Help Desk Website
+A web application developed to simplify communication and information access for students.
+
+### 🤖 AI Study Planner
+An intelligent study planner that creates personalized study schedules based on user preferences and deadlines.
+
+### 💬 TCP Chat Application
+A desktop chat application built using TCP socket programming concepts.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
