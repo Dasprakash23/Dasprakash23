@@ -3,11 +3,11 @@
 # Hi 👋 I'm Dasprakash
 
 ### 🎓 Final Year B.Tech Student
-### 💻 Python Developer | 🤖 AI Enthusiast | 🚀 Software Developer
+### 💻 Python Developer | 🤖 AI Enthusiast | 🚀 Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -15,15 +15,15 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech Student
+🎓 Final Year B.Tech Student at **Christ College of Engineering and Technology**
 
-💡 Passionate about building software that solves real-world problems.
+💻 Passionate about **Python, Artificial Intelligence, and Software Development**
 
-🐍 Currently mastering Python and improving problem-solving skills.
+🚀 Building projects that solve real-world problems
 
-🚀 Exploring Artificial Intelligence and Full Stack Development.
+📚 Currently improving **Python**, **Data Structures & Algorithms**, and **Full Stack Development**
 
-🎯 Looking for Software Developer opportunities.
+🎯 Looking for **Software Developer** opportunities
 
 📍 Tamil Nadu, India
 
@@ -31,26 +31,27 @@
 
 # 🚀 Current Focus
 
-- 🐍 Python
-- 🤖 Artificial Intelligence
+- 🐍 Mastering Python
+- 🤖 AI-Based Applications
 - 🌐 Full Stack Development
 - 📚 Data Structures & Algorithms
+- 💼 Placement Preparation
 
 ---
 
 # 📂 Featured Projects
 
 ### 🚗 AI-Based Accident Prevention System
-AI-powered solution for improving road safety through intelligent accident prevention.
+An AI-powered solution designed to improve road safety by detecting risky driving behaviour and providing timely alerts.
 
 ### 🎓 College Help Desk Website
-A centralized platform that helps students access academic resources and services.
+A web application that simplifies communication between students and the institution.
 
 ### 🤖 AI Study Planner
-An intelligent planner that generates personalized study schedules.
+A smart planner that generates personalized study schedules based on user preferences and deadlines.
 
 ### 💬 TCP Chat Application
-A desktop chat application developed using TCP socket programming.
+A desktop chat application developed using TCP socket programming concepts.
 
 ---
 
@@ -76,12 +77,12 @@ A desktop chat application developed using TCP socket programming.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/in/dasprakash-manikandan/)&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/dasprakash-manikandan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:dasprakashmanikandan19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -92,6 +93,6 @@ A desktop chat application developed using TCP socket programming.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep Learning. Keep Building. Keep Growing."* 🚀
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
