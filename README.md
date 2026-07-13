@@ -77,7 +77,7 @@ A desktop chat application developed using TCP socket programming.
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge](https://www.linkedin.com/in/dasprakash-manikandan/)&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
