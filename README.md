@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi 👋 I'm Dasprakash
+# 👋 Hi, I'm Dasprakash
 
 ### 🎓 Final Year B.Tech Student
 ### 💻 Python Developer | 🤖 AI Enthusiast | 🚀 Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=220&section=header&text=Dasprakash&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Software%20Engineer&descAlignY=58"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+
+<img src="https://visitcount.itsvg.in/api?id=Dasprakash23&icon=5&color=6"/>
 
 </div>
 
@@ -15,61 +17,117 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech Student at **Christ College of Engineering and Technology**
+🎓 Final Year **B.Tech Student** at **Christ College of Engineering and Technology**
 
-💻 Passionate about **Python, Artificial Intelligence, and Software Development**
+💻 Passionate about **Python**, **Artificial Intelligence**, and **Software Development**
 
-🚀 Building projects that solve real-world problems
+🚀 I enjoy building real-world applications that solve practical problems.
 
-📚 Currently improving **Python**, **Data Structures & Algorithms**, and **Full Stack Development**
+📚 Currently learning **Python**, **Data Structures & Algorithms**, **Artificial Intelligence**, and **Full Stack Development**
 
-🎯 Looking for **Software Developer** opportunities
+🎯 Preparing for **Software Developer** roles and internships.
 
 📍 Tamil Nadu, India
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,django,mongodb,mysql,git,github,vscode,linux&perline=7"/>
+
+</p>
 
 ---
 
 # 🚀 Current Focus
 
 - 🐍 Mastering Python
-- 🤖 AI-Based Applications
+- 🤖 Building AI Applications
 - 🌐 Full Stack Development
 - 📚 Data Structures & Algorithms
 - 💼 Placement Preparation
+- ☁️ Exploring Cloud Technologies
 
 ---
 
-# 📂 Featured Projects
+# 🧠 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Artificial Intelligence
+- React & Django
+- Problem Solving
+- Git & GitHub Best Practices
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Python
+
+✅ Solve 300+ DSA Problems
+
+✅ Build 10+ Real-World Projects
+
+✅ Learn Machine Learning
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Developer Role
+
+---
+
+# 🚀 What I'm Working On
 
 ### 🚗 AI-Based Accident Prevention System
-An AI-powered solution designed to improve road safety by detecting risky driving behaviour and providing timely alerts.
+
+An AI-powered solution to improve road safety by detecting risky driving behaviour and providing timely alerts.
 
 ### 🎓 College Help Desk Website
-A web application that simplifies communication between students and the institution.
+
+A full-stack web application that simplifies communication between students and the institution.
 
 ### 🤖 AI Study Planner
-A smart planner that generates personalized study schedules based on user preferences and deadlines.
+
+An intelligent planner that generates personalized study schedules using AI concepts.
 
 ### 💬 TCP Chat Application
-A desktop chat application developed using TCP socket programming concepts.
+
+A desktop chat application developed using Python Socket Programming.
 
 ---
 
-# 📊 GitHub Statistics
+# 🛠 Development Environment
 
-<p align="center">
+💻 VS Code
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+🐍 Python
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+🌐 Windows & Ubuntu
 
-</p>
+⚡ Git & GitHub
 
-<p align="center">
+🗄️ MongoDB & MySQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+---
 
-</p>
+# 💡 Developer Philosophy
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+---
+
+# 🔥 Fun Facts
+
+💻 I enjoy turning ideas into software.
+
+🚀 Every project teaches me something new.
+
+🤖 AI fascinates me because it can solve real-world problems.
+
+☕ Coffee + Python = Productivity
 
 ---
 
@@ -91,8 +149,8 @@ A desktop chat application developed using TCP socket programming concepts.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🚀 Thanks for Visiting My Profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+### ⭐ *"Code. Learn. Build. Improve. Repeat."*
 
 </div>
