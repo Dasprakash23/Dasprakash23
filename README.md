@@ -189,24 +189,6 @@ Currently, I'm strengthening my foundation in **React, Django, REST APIs, deploy
                AI Applications
 ```
 
----
-
-# 🏆 Achievements
-
-### 🥇 1st Prize — Mind Crush
-
-Secured **1st place** in a technical symposium competition at MVIT.
-
-### 🚀 NexBuildON Hackathon Finalist
-
-Qualified for **Round-1 Ideathon** by proposing an innovative software architecture.
-
-### 💻 ITERYX '26 National Hackathon
-
-Participated in the **24-hour hackathon** conducted by St. Joseph's ACM & Unstop.
-
----
-
 # 📚 Currently Learning
 
 ```text
